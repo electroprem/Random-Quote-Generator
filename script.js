@@ -759,7 +759,7 @@ const quotes = [
         "category": "Self-Belief"
         }
 ];
-const imageCategories = ["nature","birds","thinker","tiger", "architecture", "animals", "travel", "food","space","people","old","age","dream","clouds","sunset"];
+const imageCategories = ["nature","birds","thinker","tiger", "architecture", "animals", "travel", "food","space","old","age","dream","clouds","sunset"];
 
 function getRandomQuote() {
     const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
