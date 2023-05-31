@@ -8,6 +8,216 @@ const quotes = [
         "author": "Steve Jobs",
         "category": "Motivation"
         },
+    {
+    "text": "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+    "author": "Roy T. Bennett",
+    "category": "Fear"
+    },
+
+    {
+    "text": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+    "author": "Albert Schweitzer",
+    "category": "Happiness"
+    },
+
+    {
+    "text": "The best revenge is massive success.",
+    "author": "Frank Sinatra",
+    "category": "Success"
+    },
+
+    {
+    "text": "Don't let yesterday take up too much of today.",
+    "author": "Will Rogers",
+    "category": "Moving Forward"
+    },
+
+    {
+    "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "Belief"
+    },
+
+    {
+    "text": "The future belongs to those who believe in the beauty of their dreams.",
+    "author": "Eleanor Roosevelt",
+    "category": "Dreams"
+    },
+
+    {
+    "text": "Your time is limited, don't waste it living someone else's life.",
+    "author": "Steve Jobs",
+    "category": "Life"
+    },
+
+    {
+    "text": "The biggest adventure you can take is to live the life of your dreams.",
+    "author": "Oprah Winfrey",
+    "category": "Adventure"
+    },
+
+    {
+    "text": "Success is not the absence of failure; it's the persistence through failure.",
+    "author": "Aisha Tyler",
+    "category": "Persistence"
+    },
+
+    {
+    "text": "Success is not in what you have, but who you are.",
+    "author": "Bo Bennett",
+    "category": "Identity"
+    },
+
+    {
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "Passion"
+    },
+
+    {
+    "text": "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
+    "author": "Christian D. Larson",
+    "category": "Self-Belief"
+    },
+
+    {
+    "text": "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+    "author": "Roy T. Bennett",
+    "category": "Fear"
+    },
+
+    {
+    "text": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+    "author": "Albert Schweitzer",
+    "category": "Happiness"
+    },
+
+    {
+    "text": "The best revenge is massive success.",
+    "author": "Frank Sinatra",
+    "category": "Success"
+    },
+
+    {
+    "text": "Don't let yesterday take up too much of today.",
+    "author": "Will Rogers",
+    "category": "Moving Forward"
+    },
+
+    {
+    "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "Belief"
+    },
+
+    {
+    "text": "The future belongs to those who believe in the beauty of their dreams.",
+    "author": "Eleanor Roosevelt",
+    "category": "Dreams"
+    },
+
+    {
+    "text": "Your time is limited, don't waste it living someone else's life.",
+    "author": "Steve Jobs",
+    "category": "Life"
+    },
+
+    {
+    "text": "The biggest adventure you can take is to live the life of your dreams.",
+    "author": "Oprah Winfrey",
+    "category": "Adventure"
+    },
+
+    {
+    "text": "Success is not the absence of failure; it's the persistence through failure.",
+    "author": "Aisha Tyler",
+    "category": "Persistence"
+    },
+
+    {
+    "text": "Success is not in what you have, but who you are.",
+    "author": "Bo Bennett",
+    "category": "Identity"
+    },
+
+    {
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "Passion"
+    },
+
+    {
+    "text": "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
+    "author": "Christian D. Larson",
+    "category": "Self-Belief"
+    },
+
+    {
+    "text": "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+    "author": "Roy T. Bennett",
+    "category": "Fear"
+    },
+
+    {
+    "text": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+    "author": "Albert Schweitzer",
+    "category": "Happiness"
+    },
+
+    {
+    "text": "The best revenge is massive success.",
+    "author": "Frank Sinatra",
+    "category": "Success"
+    },
+
+    {
+    "text": "Don't let yesterday take up too much of today.",
+    "author": "Will Rogers",
+    "category": "Moving Forward"
+    },
+
+    {
+    "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "Belief"
+    },
+
+    {
+    "text": "The future belongs to those who believe in the beauty of their dreams.",
+    "author": "Eleanor Roosevelt",
+    "category": "Dreams"
+    },
+
+    {
+    "text": "Your time is limited, don't waste it living someone else's life.",
+    "author": "Steve Jobs",
+    "category": "Life"
+    },
+
+    {
+    "text": "The biggest adventure you can take is to live the life of your dreams.",
+    "author": "Oprah Winfrey",
+    "category": "Adventure"
+    },
+
+    {
+    "text": "Success is not the absence of failure; it's the persistence through failure.",
+    "author": "Aisha Tyler",
+    "category": "Persistence"
+    },
+
+    {
+    "text": "Success is not in what you have, but who you are.",
+    "author": "Bo Bennett",
+    "category": "Identity"
+    },
+
+    {
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "Passion"
+    },
+
         
         {
         "text": "In the middle of difficulty lies opportunity.",
