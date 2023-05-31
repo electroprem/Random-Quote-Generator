@@ -30,7 +30,7 @@ To set up the "Random Quotes" website locally, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/<your-username>/random-quotes.git
+   [git clone https://github.com/<your-username>/random-quotes.git](https://github.com/electroprem/Random-Quote-Generator.git)
    ```
 
 2. Navigate to the project directory:
